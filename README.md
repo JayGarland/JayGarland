@@ -3,7 +3,7 @@
 **Software Engineer** · Paris, France  
 *Available from September 2026 · Open to relocation & remote across France / Europe*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rajayoux.github.io-1b3a8c?style=flat-square)](http://pengyujie.pages.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pengyujie.pages.dev-1b3a8c?style=flat-square)](https://pengyujie.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pengyu--jie-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pengyu-jie)
 [![Email](https://img.shields.io/badge/Email-pengyujie.dev%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:pengyujie.dev@gmail.com)
 
